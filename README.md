@@ -1,2 +1,5 @@
-# elliottucker.github.io
-Personal Blog
+---
+share: "true"
+---
+go to the subpage [[New page|New page]]
+
